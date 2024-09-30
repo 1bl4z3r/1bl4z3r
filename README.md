@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm BLZR</h1>
+<h3 align="center">Why do we need Subtitles? Life ain't K-drama</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on [hermit-V2](https://github.com/1bl4z3r/hermit-V2)<br>🌱 I’m currently learning **Operations, Marketing Management & Business Administration**<br>👨‍💻 All of my projects are available at [https://blzr.sbs/](https://blzr.sbs/)<br>📝 I regularly write articles on [https://blzr.sbs/](https://blzr.sbs/)<br>💬 Ask me about **if I'm a certified idiot**<br>📫 How to reach me **https://blzr.sbs/contact**<br>⚡ My Life's Motto **Embrace chaos like it’s a feature, not a bug—because in the end, we’re all just one deployment away from enlightenment!**
 
