@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm BLZR</h1>
-<h3 align="center">Why do we need Subtitles? Life ain't K-drama</h3>
+<h3 align="center">Cloud infrastructure & Linux developer with business savvy; passionate open source contributor.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [hermit-V2](https://github.com/1bl4z3r/hermit-V2)<br>🌱 I’m currently learning **Operations, Marketing Management & Business Administration**<br>👨‍💻 All of my projects are available at [https://blzr.sbs/](https://blzr.sbs/)<br>📝 I regularly write articles on [https://blzr.sbs/](https://blzr.sbs/)<br>💬 Ask me about **if I'm a certified idiot**<br>📫 How to reach me **https://blzr.sbs/contact**<br>⚡ My Life's Motto **Embrace chaos like it’s a feature, not a bug—because in the end, we’re all just one deployment away from enlightenment!**
+🔭 I’m currently working on [hermit-V2](https://github.com/1bl4z3r/hermit-V2)<br>🌱 I’m currently learning **Operations, DevOps, Cloud Infrastructure & Data Analytics**<br>👨‍💻 All of my projects are available at [https://blzr.sbs/](https://blzr.sbs/)<br>📝 I regularly write articles on [https://blzr.sbs/](https://blzr.sbs/)<br>💬 Ask me about **if I'm a certified idiot**<br>📫 How to reach me **https://blzr.sbs/contact**<br>⚡ My Life's Motto **Embrace chaos like it’s a feature, not a bug—because in the end, we’re all just one deployment away from enlightenment!**
 
 # 💻 Tech Stack:
 
@@ -29,17 +29,15 @@
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=flat&logo=Hugo) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)  
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=1bl4z3r&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=1bl4z3r&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1bl4z3r&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Github Stats Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1bl4z3r&theme=transparent)<br/>
+![](https://github-readme-stats.vercel.app/api?username=1bl4z3r&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=1bl4z3r&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=1bl4z3r&no-frame=true&no-bg=true&theme=darkhub)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=1bl4z3r&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=1bl4z3r&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
