@@ -70,6 +70,7 @@
 <div align="center">
 
 [![Hermit-V2](https://github-readme-stats.vercel.app/api/pin/?username=1bl4z3r&repo=hermit-V2&theme=radical&hide_border=true)](https://github.com/1bl4z3r/hermit-V2)
+[![ctc](https://github-readme-stats.vercel.app/api/pin/?username=1bl4z3r&repo=ctc&theme=radical&hide_border=true)](https://github.com/1bl4z3r/ctc)
 
 </div>
 
