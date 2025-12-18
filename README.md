@@ -40,22 +40,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1bl4z3r&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1bl4z3r&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1bl4z3r&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ---
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=1bl4z3r&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
 
 ## 📈 Contribution Graph
 
